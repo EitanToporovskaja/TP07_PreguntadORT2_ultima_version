@@ -1,0 +1,16 @@
+C:\Users\47871657\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.csproj.AssemblyReference.cache
+C:\Users\47871657\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47871657\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.AssemblyInfoInputs.cache
+C:\Users\47871657\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.AssemblyInfo.cs
+C:\Users\47871657\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.csproj.CoreCompileInputs.cache
+C:\Users\47871657\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\47871657\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.RazorAssemblyInfo.cache
+C:\Users\47871657\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.RazorAssemblyInfo.cs
+Z:\programacion4\TP07_PreguntadORT2(ultima_version)\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.csproj.AssemblyReference.cache
+Z:\programacion4\TP07_PreguntadORT2(ultima_version)\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.GeneratedMSBuildEditorConfig.editorconfig
+Z:\programacion4\TP07_PreguntadORT2(ultima_version)\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.AssemblyInfoInputs.cache
+Z:\programacion4\TP07_PreguntadORT2(ultima_version)\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.AssemblyInfo.cs
+Z:\programacion4\TP07_PreguntadORT2(ultima_version)\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.csproj.CoreCompileInputs.cache
+Z:\programacion4\TP07_PreguntadORT2(ultima_version)\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.MvcApplicationPartsAssemblyInfo.cache
+Z:\programacion4\TP07_PreguntadORT2(ultima_version)\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.RazorAssemblyInfo.cache
+Z:\programacion4\TP07_PreguntadORT2(ultima_version)\TP07_PreguntadORT2\TP07_PreguntadORT\obj\Debug\net6.0\TP07_PreguntadORT.RazorAssemblyInfo.cs
